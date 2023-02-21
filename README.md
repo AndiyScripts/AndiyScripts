@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-How to reach me: [AndiyScirpts Discord](https://discord.gg/Cx9PC6QmNW)
+[AndiyScirpts Discord](https://discord.gg/Cx9PC6QmNW)
 
 <!--
 **AndiyScripts/AndiyScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
